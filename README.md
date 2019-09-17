@@ -1,4 +1,4 @@
-# iRPGEditor
+
 iRPGEditor is a fork de JSEU Project http://sourceforge.net/projects/jseu/.
 
 Download binaries in https://github.com/egomezal/irpgeditor/releases
